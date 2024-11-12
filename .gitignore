@@ -1,0 +1,11 @@
+# .gitignore
+
+# ignore .env file containing sensitive information
+.env
+
+# ignore __pycache__ directories and .pyc files
+__pycache__/
+*.pyc
+
+# ignore virtual environment directory
+venv/
